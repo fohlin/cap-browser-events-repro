@@ -1,0 +1,30 @@
+header {
+  background: #5851ff;
+  color: white;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  padding-top: calc(env(safe-area-inset-top));
+}
+
+h1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #fff;
+  padding: 0 12px;
+}
+
+header + div {
+  padding: 1rem 0.5rem;
+}
+p {
+  margin: 1.5rem 0;
+}
+
+table {
+  font-size: 0.875rem;
+  font-family: monospace;
+}
+td + td {
+  padding-left: 1rem;
+}

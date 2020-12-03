@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.capbrowserevents",
+  "appName": "cap-browser-events-repro",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cap-browser-events-repro</string>
+    <string name="title_activity_main">cap-browser-events-repro</string>
+    <string name="package_name">com.example.capbrowserevents</string>
+    <string name="custom_url_scheme">com.example.capbrowserevents</string>
+</resources>

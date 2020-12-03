@@ -1,0 +1,21 @@
+{
+  "name": "cap-browser-events-repro",
+  "version": "0.0.1",
+  "description": "Capacitor Browser plugin events investigation",
+  "author": "Fredrik Ohlin <fo@fredrikohlin.com>",
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watchAll",
+    "generate": "stencil generate"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^2.4.4",
+    "@capacitor/cli": "^2.4.4",
+    "@capacitor/core": "^2.4.4",
+    "@capacitor/ios": "^2.4.4",
+    "@stencil/core": "^2.0.0"
+  },
+  "license": "MIT"
+}
