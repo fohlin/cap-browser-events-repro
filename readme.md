@@ -23,3 +23,7 @@ npx cap open android
 # Build and run in Xcode
 npx cap open ios
 ```
+
+## Bug video
+
+Running this project should reproduce the buggy behavior [shown in this video](bug-report.mov).
